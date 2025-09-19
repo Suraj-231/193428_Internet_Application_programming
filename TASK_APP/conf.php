@@ -1,7 +1,7 @@
 <?php
 // Site Information
 $conf['site_name'] = 'ICS C Community';
-$conf['site_url'] = 'http://localhost/183870-IAP';
+$conf['site_url'] = 'http://localhost/193428_Assigment1';
 $conf['admin_email'] = 'admin@icsccommunity.com';
 
 // Database Configuration
