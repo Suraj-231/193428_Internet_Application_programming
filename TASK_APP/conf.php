@@ -1,8 +1,8 @@
 <?php
 // Site Information
-$conf['site_name'] = 'ICS C Community';
-$conf['site_url'] = 'http://localhost/193428_Assigment1';
-$conf['admin_email'] = 'admin@icsccommunity.com';
+$conf['site_name'] = 'WorkFlow';
+$conf['site_url'] = 'http://localhost/TASK_APP';
+$conf['admin_email'] = 'admin@Taskflow.com';
 
 // Database Configuration
 $conf['db_type'] = 'pdo';
